@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DrawingTool</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="manage_colors_b_name">Manage Colors</string>
+    <string name="save_b_name">Save</string>
+    <string name="export_b_name">Export image</string>
+    <string name="exit_b_name">Exit</string>
+    <string name="resume_b_name">Resume</string>
+    <string name="menu_b_name">Menu</string>
+    <string name="backBtnName">Back</string>
+    <string name="add_color_btn_name">Add Color</string>
+    <string name="clear_all_btn_name">Clear All</string>
+    <string name="confirm_add_btn">OK</string>
+    <string name="cancel_btn_name">Cancel</string>
+    <string name="pick_btn_name">pick</string>
+    <string name="new_b_name">New Drawing</string>
+    <string name="load_b_name">Load</string>
+    <string name="eraser_btn_name">eraser</string>
+    <string name="import_b_name">Import colors</string>
+</resources>

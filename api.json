@@ -1,0 +1,50 @@
+{
+	"palletes" : 
+	[
+		{
+			"name" : "red colors",
+			"elements" :
+			[
+				{
+					"red" : 100,
+					"green" : 20,
+					"blue" : 10
+				},
+				{
+					"red" : 160,
+					"green" : 20,
+					"blue" : 10
+				},
+				{
+					"red" : 180,
+					"green" : 20,
+					"blue" : 10
+				}
+			]
+		},
+
+		{
+			"name" : "green colors",
+			"elements" :
+			[
+				{
+					"red" : 10,
+					"green" : 200,
+					"blue" : 10
+				},
+				{
+					"red" : 60,
+					"green" : 220,
+					"blue" : 10
+				},
+				{
+					"red" : 10,
+					"green" : 240,
+					"blue" : 20
+				}
+			]
+		}
+	]
+}
+
+https://api.myjson.com/bins/8cb2d
